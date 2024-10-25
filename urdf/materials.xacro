@@ -1,0 +1,16 @@
+<?xml version="1.0" ?>
+<robot name="colmena" xmlns:xacro="http://www.ros.org/wiki/xacro" >
+
+  <material name="black">
+    <color rgba="0.200 0.200 0.200 1.000"/> <!-- Negro -->
+  </material>
+
+  <material name="silver">
+    <color rgba="0.400 0.400 0.400 1.000"/> <!-- Plata -->
+  </material>
+
+  <material name="white">
+    <color rgba="0.800 0.800 0.800 1.000"/> <!-- Blanco -->
+  </material>
+
+</robot>
